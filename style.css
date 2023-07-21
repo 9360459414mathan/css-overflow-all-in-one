@@ -1,0 +1,28 @@
+.row{
+	display:flex;
+	width:100%;
+}
+.flow1{
+	width:20%px;
+	height:300px;
+	overflow:visible;
+	border:2px solid red;
+}
+.flow2{
+	width:20%px;
+	height:300px;
+	overflow:hidden;
+	border:2px solid red;
+}
+.flow3{
+	width:20%px;
+	height:300px;
+	overflow:auto;
+	border:2px solid red;
+}
+.flow4{
+	width:20%px;
+	height:300px;
+	overflow:scroll;
+	border:2px solid red;
+}
